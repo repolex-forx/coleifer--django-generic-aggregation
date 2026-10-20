@@ -1,0 +1,11 @@
+{
+  "org": "coleifer",
+  "repo": "django-generic-aggregation",
+  "versions": [
+    {
+      "commit": "7dc1557ac0a791ccc56278b57ba25d6651d868e0",
+      "tag": "",
+      "parsed_at": "2026-10-20T20:45:39.023160+00:00"
+    }
+  ]
+}
