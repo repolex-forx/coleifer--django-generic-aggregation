@@ -1,0 +1,42 @@
+{
+  "manifest_version": "1.0",
+  "org": "coleifer",
+  "repo": "django-generic-aggregation",
+  "versions": [
+    {
+      "commit": "7dc1557ac0a791ccc56278b57ba25d6651d868e0",
+      "parsed_at": "2026-10-20T20:43:01.373409+00:00",
+      "filetree": "filetree/7dc1557ac0a791ccc56278b57ba25d6651d868e0.nq.gz",
+      "blobs": [
+        "blob/57e541146ca69ce5383857843aa1d3f93b1f304c.nq.gz",
+        "blob/999d37e78d5a21cc2be74920f7b8442f6fcd8ea3.nq.gz",
+        "blob/6083b58e9355e3359dc46fd7b850e02c9ec1a653.nq.gz",
+        "blob/e69de29bb2d1d6434b8b29ae775ad8c2e48c5391.nq.gz",
+        "blob/1399fbdc0ea8dd0aa22467f7b1589f1b4ddb8c4f.nq.gz",
+        "blob/b366f7a8b15d08bfe2e703f20a8a363541211233.nq.gz",
+        "blob/850d79c4a18baa2309372d11a4013e14ddc131cc.nq.gz",
+        "blob/94b9b5330612c140a924409e181e7744045c64df.nq.gz",
+        "blob/9b5c4cea6ff2fa6a12908c0a37497457e95ea657.nq.gz",
+        "blob/04292f33b83f44db032689ad527d03ad3a50f9eb.nq.gz",
+        "blob/b857494c632204fc453243523bdee8d94ba3a713.nq.gz",
+        "blob/bd0816e86c84c19b8216cfc85b654684d9cf8b1f.nq.gz",
+        "blob/16b43d8333ee167adcfc837f0b428e60f2989e06.nq.gz",
+        "blob/aa872d7e9e50b80891558b61ad1871c80f6c9900.nq.gz",
+        "blob/93120e66c81f4b26c1d40a4b853394b85131e9ed.nq.gz",
+        "blob/f59843294cd2a8fe389a3bb7667314f38961d3e9.nq.gz",
+        "blob/3ccd24e7e9fb50c46df52a4aff21d07d087f9e5b.nq.gz",
+        "blob/b4c9a61bfe8cba6385ae541f6147fdddc58b2588.nq.gz",
+        "blob/3c360c6f6700bb173b750f2a22a56d9cce2e8bd6.nq.gz",
+        "blob/6a25943939259cc2ad55abf9303ba585af8736e1.nq.gz",
+        "blob/841b7cb12e7138a7eb3e4b90e95888e1b0c177c5.nq.gz",
+        "blob/95b6cf206360826326e53868e6ba1d28bec0e5b5.nq.gz",
+        "blob/1747311e1499a230eadf20ae30f38d86d14ffb2e.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "issue": "issue/issue.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
